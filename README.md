@@ -7,6 +7,8 @@
 
 
 - 📫 How to reach me **gihantharuka2499@gmail.com**
+- ⬇️ [Download my CV](https://github.com/gihan-tharuka/resume/raw/main/CV.pdf)
+
 
 
 <p align="left">
