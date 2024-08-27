@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gihan Tharuka</h1>
-<h3 align="center"> Aspiring software engineer seeking internship. Proficient in coding and problem-solving. Eager
- to apply academic knowledge in real-world projects and learn collaboratively. Highly skilled in
- communication, collaboration, and technical documentation.</h3>
+<h3 align="center"> Highly skilled and passionate Full Stack Developer with a robust background in designing, developing both web and mobile applications. My expertise in Agile methodologies and my commitment to writing clean, efficient code allow me to deliver high-quality solutions that meet both client and user needs. Whether collaborating in a team or leading independent projects, I consistently strive to push the boundaries of what's possible with code, ensuring that every project I work on not only meets but exceeds expectations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gihan-tharuka&label=Profile%20views&color=0e75b6&style=flat" alt="gihan-tharuka" /> </p>
 
