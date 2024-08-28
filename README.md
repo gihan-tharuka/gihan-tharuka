@@ -5,7 +5,7 @@
 
 
 - 📫 How to reach me **gihantharuka2499@gmail.com**
-- ⬇️ [Download My CV](https://github.com/gihan-tharuka/resume/raw/main/CV.pdf)
+- 📄 [Download My CV](https://github.com/gihan-tharuka/resume/raw/main/CV.pdf)
 
 
 
