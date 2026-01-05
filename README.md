@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gihan Tharuka</h1>
-<h3 align="center"> Highly skilled and passionate Full Stack Developer with a robust background in designing, developing both web and mobile applications. My expertise in Agile methodologies and my commitment to writing clean, efficient code allow me to deliver high-quality solutions that meet both client and user needs. Whether collaborating in a team or leading independent projects, I consistently strive to push the boundaries of what's possible with code, ensuring that every project I work on not only meets but exceeds expectations.</h3>
+<h3 align="center"> Highly skilled and passionate Full Stack Developer with a robust background in designing, developing both web and mobile applications. I build resilient, scalable web applications from end-to-end — crafting clean APIs, efficient backends, and polished user interfaces. I focus on delivering reliable systems that solve real problems and provide great user experiences.
+
+My stack spans server-side development, databases, and frontend engineering. I value clean architecture, automated tests, and continuous delivery to move fast without sacrificing quality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gihan-tharuka&label=Profile%20views&color=0e75b6&style=flat" alt="gihan-tharuka" /> </p>
 
