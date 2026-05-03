@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gihan Tharuka</h1>
-<h3 align="center"> Highly skilled and passionate Full Stack Developer with a robust background in designing, developing both web and mobile applications. I build resilient, scalable web applications from end-to-end — crafting clean APIs, efficient backends, and polished user interfaces. I focus on delivering reliable systems that solve real problems and provide great user experiences.
-
-My stack spans server-side development, databases, and frontend engineering. I value clean architecture, automated tests, and continuous delivery to move fast without sacrificing quality.</h3>
+<h3 align="center"> Full-Stack Software Developer specialized in building scalable CRMs and ERP systems using Clean Architecture and SOLID principles, with proven expertise in developing RESTful APIs, optimized database designs, and responsive UIs. Experienced in the full SDLC, within Collaborative Agile environments to deliver high-quality, maintainable software solutions. Proficient in a diverse technical stack including Laravel, React, Python, and Java, with a strong foundation in MVC architecture and AWS cloud infrastructure. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gihan-tharuka&label=Profile%20views&color=0e75b6&style=flat" alt="gihan-tharuka" /> </p>
 
