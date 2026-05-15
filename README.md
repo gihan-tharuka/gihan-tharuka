@@ -1,28 +1,207 @@
-<h1 align="center">Hi 👋, I'm Gihan Tharuka</h1>
-<h3 align="center"> Full-Stack Software Developer specialized in building scalable CRMs and ERP systems using Clean Architecture and SOLID principles, with proven expertise in developing RESTful APIs, optimized database designs, and responsive UIs. Experienced in the full SDLC, within Collaborative Agile environments to deliver high-quality, maintainable software solutions. Proficient in a diverse technical stack including Laravel, React, Python, and Java, with a strong foundation in MVC architecture and AWS cloud infrastructure. </h3>
+# Hi there, I'm Gihan Tharuka 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gihan-tharuka&label=Profile%20views&color=0e75b6&style=flat" alt="gihan-tharuka" /> </p>
+### Full Stack Software Engineer | Web & Mobile Developer
 
+I’m a software engineer focused on building scalable web applications, SaaS platforms, business systems, and modern user experiences.  
+Passionate about solving real-world problems through technology while continuously learning new tools, architectures, and development practices.
 
-- 📫 How to reach me **gihantharuka2499@gmail.com**
-- 📄 [Download My CV](https://github.com/gihan-tharuka/resume/raw/main/Gihan-Tharuka-Resume.pdf)
+---
 
+## 🚀 About Me
 
+- 💻 Full Stack Developer with experience in web and mobile applications
+- 🛠️ Building scalable systems using Laravel, React, Java, MySQL, and cloud technologies
+- 🌱 Currently exploring AI-powered applications, cloud architecture, and scalable SaaS systems
+- 📈 Interested in startups, SaaS products, automation, and digital business solutions
+- 🎯 Goal: Build impactful software products and grow a successful tech business
 
-<p align="left">
+---
+
+# 🧰 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,java,js,ts,python,c,cpp,dart" />
 </p>
 
-<h3 align="left">Languages and Tools: </h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJIZSV6WytXnbqL37Z7iDhoi8kwsxPd28QQw&s" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## ⚙️ Frameworks & Libraries
 
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,tailwind,bootstrap,livewire,flutter" />
+</p>
 
+---
 
+## 🗄️ Databases
 
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+</p>
 
+---
 
+## ☁️ Cloud & DevOps
 
-<!---
-gihan-tharuka/gihan-tharuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
+
+---
+
+## 🧪 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,idea,androidstudio" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🏋️ FlexiFit Gym Management SaaS
+A full-featured gym management platform built using Laravel, Filament, Livewire, and MySQL.
+
+### Features
+- Membership management
+- Workout tracking
+- Payment management
+- Admin dashboard
+- Income & expense tracking
+- Progressive Web App (PWA)
+
+### Tech Stack
+`Laravel` `Filament` `Livewire` `MySQL` `Tailwind CSS`
+
+🔗 Repository: [Add Repository Link]  
+🔗 Live Demo: [Add Demo Link]
+
+---
+
+## 🌍 Tourism Booking Platform
+A modern tourism and travel booking platform with dynamic tour management and responsive UI/UX.
+
+### Features
+- Dynamic tour pages
+- Tour booking workflow
+- Admin management system
+- Responsive modern UI
+- SEO-friendly architecture
+
+### Tech Stack
+`Next.js` `React` `Tailwind CSS` `TypeScript`
+
+🔗 Repository: [Add Repository Link]  
+🔗 Live Demo: [Add Demo Link]
+
+---
+
+## 🏢 ERP Management System
+CLI-based ERP system developed using Java and MySQL following clean architecture principles.
+
+### Features
+- Product management
+- Inventory handling
+- CRUD operations
+- DAO architecture
+- MVC implementation
+
+### Tech Stack
+`Java` `MySQL` `MVC` `DAO`
+
+🔗 Repository: [Add Repository Link]
+
+---
+
+## 🍽️ AI-Powered Food Recommendation System
+A recommendation system that suggests food bundles based on user preferences, weather, budget, and ratings.
+
+### Features
+- Personalized recommendations
+- Budget optimization
+- Multi-objective recommendation logic
+- Context-aware recommendations
+
+### Tech Stack
+`Python` `Machine Learning` `Pandas` `Google Colab`
+
+🔗 Repository: [Add Repository Link]
+
+---
+
+## 📝 Campus Community Platform
+A university community platform built with Laravel Livewire using Agile development practices.
+
+### Features
+- Event management
+- Job postings
+- Blog system
+- Role-Based Access Control (RBAC)
+
+### Tech Stack
+`Laravel` `Livewire` `MySQL`
+
+🔗 Repository: [Add Repository Link]
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Cloud Architecture & AWS
+- AI & Machine Learning Applications
+- System Design & Scalability
+- SaaS Product Engineering
+- DevOps & Deployment Pipelines
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://YOUR_PORTFOLIO_LINK.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+> I enjoy building software that solves real-world problems, improves user experiences, and creates business value.
+
+---
+
+# ⚡ Fun Fact
+
+I’m passionate about technology, startups, SaaS products, and building systems that can scale into real businesses 🚀
