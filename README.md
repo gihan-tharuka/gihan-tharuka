@@ -10,9 +10,8 @@ Passionate about solving real-world problems through technology while continuous
 ## 🚀 About Me
 
 - 💻 Full Stack Developer with experience in web and mobile applications
-- 🛠️ Building scalable systems using Laravel, React, Java, MySQL, and cloud technologies
+- 🛠️ Building scalable systems using Laravel, React, Python, Java, MySQL, and cloud technologies
 - 🌱 Currently exploring AI-powered applications, cloud architecture, and scalable SaaS systems
-- 📈 Interested in startups, SaaS products, automation, and digital business solutions
 - 🎯 Goal: Build impactful software products and grow a successful tech business
 
 ---
@@ -59,93 +58,6 @@ Passionate about solving real-world problems through technology while continuous
 
 ---
 
-# 📌 Featured Projects
-
-## 🏋️ FlexiFit Gym Management SaaS
-A full-featured gym management platform built using Laravel, Filament, Livewire, and MySQL.
-
-### Features
-- Membership management
-- Workout tracking
-- Payment management
-- Admin dashboard
-- Income & expense tracking
-- Progressive Web App (PWA)
-
-### Tech Stack
-`Laravel` `Filament` `Livewire` `MySQL` `Tailwind CSS`
-
-🔗 Repository: [Add Repository Link]  
-🔗 Live Demo: [Add Demo Link]
-
----
-
-## 🌍 Tourism Booking Platform
-A modern tourism and travel booking platform with dynamic tour management and responsive UI/UX.
-
-### Features
-- Dynamic tour pages
-- Tour booking workflow
-- Admin management system
-- Responsive modern UI
-- SEO-friendly architecture
-
-### Tech Stack
-`Next.js` `React` `Tailwind CSS` `TypeScript`
-
-🔗 Repository: [Add Repository Link]  
-🔗 Live Demo: [Add Demo Link]
-
----
-
-## 🏢 ERP Management System
-CLI-based ERP system developed using Java and MySQL following clean architecture principles.
-
-### Features
-- Product management
-- Inventory handling
-- CRUD operations
-- DAO architecture
-- MVC implementation
-
-### Tech Stack
-`Java` `MySQL` `MVC` `DAO`
-
-🔗 Repository: [Add Repository Link]
-
----
-
-## 🍽️ AI-Powered Food Recommendation System
-A recommendation system that suggests food bundles based on user preferences, weather, budget, and ratings.
-
-### Features
-- Personalized recommendations
-- Budget optimization
-- Multi-objective recommendation logic
-- Context-aware recommendations
-
-### Tech Stack
-`Python` `Machine Learning` `Pandas` `Google Colab`
-
-🔗 Repository: [Add Repository Link]
-
----
-
-## 📝 Campus Community Platform
-A university community platform built with Laravel Livewire using Agile development practices.
-
-### Features
-- Event management
-- Job postings
-- Blog system
-- Role-Based Access Control (RBAC)
-
-### Tech Stack
-`Laravel` `Livewire` `MySQL`
-
-🔗 Repository: [Add Repository Link]
-
----
 
 # 📊 GitHub Stats
 
