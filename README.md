@@ -49,6 +49,13 @@ Passionate about solving real-world problems through technology while continuous
       <img src="https://skillicons.dev/icons?i=vscode,figma,postman,idea,androidstudio,github,phpstorm,pycharm" />
     </td>
   </tr>
+  <tr>
+    <td><strong>🚀 Discovering</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,angular,vue,nestjs,docker,spring,dotnet,linux,gcp,vercel,jenkins, gitlab, githubactions" />
+      <img src="https://img.shields.io/badge/CI%2FCD-000?style=flat&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
