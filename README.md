@@ -49,11 +49,27 @@ Passionate about solving real-world problems through technology while continuous
       <img src="https://skillicons.dev/icons?i=vscode,figma,postman,idea,androidstudio,github,phpstorm,pycharm" />
     </td>
   </tr>
-  <tr>
-    <td><strong>🚀 Discovering</strong></td>
+<tr>
+    <td width="150"><strong>🚀 Discovering</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,angular,vue,nestjs,docker,spring,dotnet,linux,gcp,vercel,jenkins, gitlab, githubactions" />
-      <img src="https://img.shields.io/badge/CI%2FCD-000?style=flat&logo=githubactions&logoColor=white" />
+      <!-- Languages -->
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white" />
+      <!-- Tools & Platforms -->
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+      <!-- Cloud -->
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+      <!-- CI/CD -->
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI/CD-000?style=flat&logo=githubactions&logoColor=white" />
     </td>
   </tr>
 </table>
