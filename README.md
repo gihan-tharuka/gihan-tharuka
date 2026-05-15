@@ -42,10 +42,10 @@ Passionate about solving real-world problems through technology while continuous
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,laravel,cloudflare,railway" />
 </p>
 
 ---
