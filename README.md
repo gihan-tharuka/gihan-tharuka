@@ -18,43 +18,38 @@ Passionate about solving real-world problems through technology while continuous
 
 # 🧰 Tech Stack
 
-## 👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,java,js,ts,python,c,cpp,dart" />
-</p>
-
----
-
-## ⚙️ Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,tailwind,bootstrap,livewire,flutter" />
-</p>
-
----
-
-## 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgresql,dynamodb,s3,mssql,sqlite" />
-</p>
-
----
-
-## ☁️ Cloud 
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,laravel,cloudflare,railway" />
-</p>
-
----
-
-## 🧪 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,idea,androidstudio,github,phpstorm,pycharm" />
-</p>
+<table>
+  <tr>
+    <td width="150"><strong>👨‍💻 Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=php,java,js,ts,python,c,cpp,dart" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Frameworks & Libraries</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,tailwind,bootstrap,flutter" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgresql,dynamodb,sqlite" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,git,github,laravel,cloudflare,railway" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🧪 Tools & Platforms</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,figma,postman,idea,androidstudio,github,phpstorm,pycharm" />
+    </td>
+  </tr>
+</table>
 
 ---
 
