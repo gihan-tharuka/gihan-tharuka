@@ -101,6 +101,120 @@ Passionate about solving real-world problems through technology while continuous
 </table>
 
 ---
+# 📌 Featured Projects
+
+## 🏋️ FlexiFit – Gym Management SaaS Platform
+
+A modern SaaS-based gym management system built to streamline gym operations, membership handling, workout tracking, and business management processes.
+
+### Key Highlights
+- Developed a scalable gym management platform using Laravel, Filament, Livewire, and MySQL
+- Implemented membership management, workout tracking, and payment handling modules
+- Built admin dashboards for monitoring members, subscriptions, and gym activities
+- Designed income and expense tracking features for financial management
+- Integrated responsive UI and Progressive Web App (PWA) capabilities
+- Focused on clean architecture, maintainability, and business-oriented workflows
+
+### Tech Stack
+`Laravel` `Filament` `Livewire` `MySQL` `Tailwind CSS`
+
+🔗 Repository: https://github.com/gihan-tharuka/Flexifit-FG-Demo  
+🔗 Live Demo: https://flexifitofficial.online/
+
+---
+
+## 🤖 Automate – Business Process Automation Platform
+
+A workflow and automation platform designed to simplify repetitive business operations and improve productivity through digital process management.
+
+### Key Highlights
+- Built automation workflows for handling business operations efficiently
+- Developed dynamic CRUD modules and process management systems
+- Implemented responsive dashboards and user-friendly interfaces
+- Focused on scalable backend architecture and reusable components
+- Improved operational efficiency through automated task handling
+
+### Tech Stack
+`Laravel` `PHP` `JavaScript` `MySQL` `Tailwind CSS`
+
+🔗 Repository: https://github.com/gihan-tharuka/AutoMate-FG-Demo.git 
+🔗 Live Demo: https://pathmasiriautoelectricals.online/
+
+---
+
+## 🏥 MediSys – Healthcare Management System
+
+A healthcare and patient management platform focused on improving medical administration and patient monitoring workflows.
+
+### Key Highlights
+- Developed healthcare management modules for handling patient-related workflows
+- Built secure backend systems for managing healthcare records and operations
+- Designed dashboards for monitoring and managing healthcare activities
+- Applied scalable architecture principles for future system expansion
+- Worked with cloud-based concepts and distributed application architecture
+
+### Tech Stack
+`AWS` `Laravel` `DynamoDB` `MySQL` `REST APIs`
+
+🔗 Repository: https://github.com/gihan-tharuka/medicare-patient-monitoring.git
+🔗 Live Demo: https://api-update.dm3d5dvmoomnn.amplifyapp.com/
+
+---
+
+## 🌍 Beyond Sea Travels – Tourism & Travel Platform
+
+A modern tourism website designed to showcase travel experiences, destinations, and booking services with a premium user experience.
+
+### Key Highlights
+- Developed a responsive and modern tourism platform using Next.js and Tailwind CSS
+- Built reusable frontend components with a strong focus on UI/UX design
+- Implemented SEO-friendly architecture and optimized page performance
+- Designed dynamic travel sections, booking workflows, and destination showcases
+- Focused on clean layouts, modern animations, and mobile responsiveness
+
+### Tech Stack
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+🔗 Repository: https://github.com/gihan-tharuka/Tourism-Website 
+🔗 Live Demo: https://beyond-sea-travels.vercel.app/
+
+---
+
+## 🏢 SYOS ERP – Enterprise Resource Planning System
+
+A CLI-based ERP system developed using Java and MySQL following clean coding principles and design patterns.
+
+### Key Highlights
+- Built product and inventory management modules using Java and MySQL
+- Applied MVC architecture, DAO pattern, and SOLID principles
+- Implemented CRUD operations with optimized database interactions
+- Focused on maintainable code structure and clean software architecture
+- Designed reusable components for scalable enterprise system development
+
+### Tech Stack
+`Java` `MySQL` `MVC` `DAO` `OOP`
+
+🔗 Repository: https://github.com/gihan-tharuka/SYOS-ERP-V3
+
+---
+
+## 🍽️ DineMate – AI Powered Food Recommendation System
+
+An intelligent food recommendation system that generates personalized meal suggestions based on user preferences, budget, ratings, weather, and contextual factors.
+
+### Key Highlights
+- Developed a recommendation engine using Python and machine learning concepts
+- Implemented multi-objective optimization for personalized food recommendations
+- Integrated budget, cuisine preferences, ratings, and weather-based recommendations
+- Processed and analyzed datasets using Pandas and Google Colab
+- Focused on intelligent recommendation logic and user-centric decision making
+
+### Tech Stack
+`Python` `Machine Learning` `Pandas` `Google Colab`
+
+🔗 Repository: https://github.com/gihan-tharuka/Food-Recommendation-System
+
+---
 
 # 🌱 Currently Learning
 
