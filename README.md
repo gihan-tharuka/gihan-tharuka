@@ -176,7 +176,7 @@ A modern tourism website designed to showcase travel experiences, destinations, 
 `Next.js` `React` `TypeScript` `Tailwind CSS`
 
 🔗 Repository: https://github.com/gihan-tharuka/Tourism-Website 
-🔗 Live Demo: https://beyond-sea-travels.vercel.app/
+🔗 Live Demo: https://tourism-website-pi-one.vercel.app/
 
 ---
 
