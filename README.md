@@ -9,10 +9,10 @@ Passionate about solving real-world problems through technology while continuous
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with experience in web and mobile applications
-- 🛠️ Building scalable systems using Laravel, React, Python, Java, MySQL, and cloud technologies
-- 🌱 Currently exploring AI-powered applications, cloud architecture, and scalable SaaS systems
-- 🎯 Goal: Build impactful software products and grow a successful tech business
+- 💻 Full Stack Software Engineer focused on full-stack web apps, SaaS platforms, business systems, and admin dashboards
+- 🛠️ Recently building with Next.js, React, TypeScript, Node.js, Express, NestJS, Laravel, Java, Prisma, PostgreSQL, MySQL, and Docker
+- 🧪 Interested in clean APIs, testing, CI/CD, deployment workflows, SEO, and scalable product engineering
+- 🎯 Goal: Build impactful software products, grow as a software engineer, and create useful digital products for real users
 
 ---
 
@@ -20,82 +20,99 @@ Passionate about solving real-world problems through technology while continuous
 
 <table>
   <tr>
-    <td width="150"><strong>👨‍💻 Languages</strong></td>
+    <td width="180"><strong>👨‍💻 Languages</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><strong>⚙️ Frameworks & Libraries</strong></td>
+    <td><strong>🎨 Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><strong>🗄️ Databases</strong></td>
+    <td><strong>⚙️ Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat&logo=laravel&logoColor=black" />
+      <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java_Servlets-007396?style=flat&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Databases & ORM</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=flat&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><strong>☁️ Cloud</strong></td>
+    <td><strong>🧪 Testing & API Docs</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chai-A30701?style=flat&logo=chai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supertest-000000?style=flat&logo=testinglibrary&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>☁️ DevOps & Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" />
+      <img src="https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black" />
+      <img src="https://img.shields.io/badge/Laravel_Cloud-FF2D20?style=flat&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🧰 Tools & Practices</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel_Cloud-FF2D20?style=flat&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
-      <img src="https://img.shields.io/badge/Railway-131415?style=flat&logo=railway&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🧪 Tools & Platforms</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/SEO-0A66C2?style=flat&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" />
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><strong>🚀 Discovering</strong></td>
+    <td><strong>📚 Currently Strengthening</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/System_Design-000000?style=flat&logo=diagram&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloud_Architecture-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_Applications-412991?style=flat&logo=openai&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -103,114 +120,113 @@ Passionate about solving real-world problems through technology while continuous
 ---
 # 📌 Featured Projects
 
-## 🏋️ FlexiFit – Gym Management SaaS Platform
+## 🌍 Beyond Sea Travels – Full-Stack Tourism Platform
 
-A modern SaaS-based gym management system built to streamline gym operations, membership handling, workout tracking, and business management processes.
+A production-style tourism platform built for travel businesses, featuring dynamic tour pages, inquiry workflows, transfer pricing, admin APIs, SEO, testing, and deployment workflows.
 
 ### Key Highlights
-- Developed a scalable gym management platform using Laravel, Filament, Livewire, and MySQL
-- Implemented membership management, workout tracking, and payment handling modules
-- Built admin dashboards for monitoring members, subscriptions, and gym activities
-- Designed income and expense tracking features for financial management
-- Integrated responsive UI and Progressive Web App (PWA) capabilities
-- Focused on clean architecture, maintainability, and business-oriented workflows
+- Built a full-stack travel platform with Next.js, TypeScript, Node.js, Express, Prisma, PostgreSQL, and MongoDB audit logging
+- Developed tour, destination, testimonial, transfer, and inquiry APIs with JWT-protected admin workflows
+- Added SEO improvements including dynamic metadata, sitemap, Open Graph data, and structured JSON-LD content
+- Implemented API documentation and testing using Swagger, Mocha, Chai, Supertest, and Cypress workflows
+- Configured deployment-ready frontend/backend environments with Vercel, Render, Neon, and GitHub Actions
 
 ### Tech Stack
-`Laravel` `Filament` `Livewire` `MySQL` `Tailwind CSS`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `Prisma` `PostgreSQL` `MongoDB` `Swagger` `Cypress` `GitHub Actions`
 
-🔗 Repository: https://github.com/gihan-tharuka/Flexifit-FG-Demo  
-🔗 Live Demo: https://flexifitofficial.online/
+🔗 Repository: https://github.com/gihan-tharuka/Tourism-Website  
+🔗 Live Demo: https://beyondsea.gihantharukaweb.online/
 
 ---
 
-## 🤖 Automate – Business Process Automation Platform
+## 🔧 Padmasiri Auto Electricals – Garage Management & Customer Service Platform
 
-A workflow and automation platform designed to simplify repetitive business operations and improve productivity through digital process management.
+A Laravel-based business management platform for an auto electrical service business, combining a public website, admin dashboard, appointment workflow, service/product management, and deployment-ready backend features.
 
 ### Key Highlights
-- Built automation workflows for handling business operations efficiently
-- Developed dynamic CRUD modules and process management systems
-- Implemented responsive dashboards and user-friendly interfaces
-- Focused on scalable backend architecture and reusable components
-- Improved operational efficiency through automated task handling
+- Built a Laravel + Filament admin panel to manage services, products, appointments, inquiries, and website content
+- Developed responsive public pages using Vue, Inertia, Blade, and Tailwind CSS for service and product discovery
+- Implemented appointment booking and contact forms with validation, throttling, database tracking, and admin review
+- Added queued jobs, notifications, listeners, cached public data, and event-driven workflows for cleaner operations
+- Improved SEO, admin content control, image handling, and Laravel Cloud deployment readiness
 
 ### Tech Stack
-`Laravel` `PHP` `JavaScript` `MySQL` `Tailwind CSS`
+`Laravel` `Filament` `Vue.js` `Inertia.js` `Blade` `Tailwind CSS` `MySQL` `Queues` `Notifications` `Caching` `Laravel Cloud`
 
-🔗 Repository: https://github.com/gihan-tharuka/AutoMate-FG-Demo.git 
+🔗 Repository: https://github.com/gihan-tharuka/AutoMate-FG-Demo.git  
 🔗 Live Demo: https://pathmasiriautoelectricals.online/
 
 ---
 
-## 🏥 MediSys – Healthcare Management System
+## ✅ Growth OS – Productivity & Career Action Tracking Platform
 
-A healthcare and patient management platform focused on improving medical administration and patient monitoring workflows.
+A full-stack productivity platform designed to help users plan daily actions, track focused work sessions, organize goals by project, and build consistency across career, business, and personal growth workflows.
 
 ### Key Highlights
-- Developed healthcare management modules for handling patient-related workflows
-- Built secure backend systems for managing healthcare records and operations
-- Designed dashboards for monitoring and managing healthcare activities
-- Applied scalable architecture principles for future system expansion
-- Worked with cloud-based concepts and distributed application architecture
+- Built a productivity system with project-based planning, task management, time allocation, and active timer workflows
+- Developed a full-stack architecture using Next.js, NestJS, TypeScript, Prisma, PostgreSQL, Zustand, and protected APIs
+- Implemented authentication-ready app structure, dashboard layouts, planner state, timer state, and reusable UI components
+- Prepared the app for deployment with environment-based API configuration, database migration workflow, and hosted frontend/backend setup
+- Focused on real-world product thinking, clean state management, scalable feature structure, and user workflow design
 
 ### Tech Stack
-`AWS` `Laravel` `DynamoDB` `MySQL` `REST APIs`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `NestJS` `Prisma` `PostgreSQL` `Zustand` `Vercel` `Render` `Neon`
 
-🔗 Repository: https://github.com/gihan-tharuka/medicare-patient-monitoring.git
-🔗 Live Demo: https://api-update.dm3d5dvmoomnn.amplifyapp.com/
+🔗 Live Demo: https://growth-os-zeta-snowy.vercel.app/  
+🔗 Repository: Available on request
 
 ---
 
-## 🌍 Beyond Sea Travels – Tourism & Travel Platform
+## ✨ LUMENÉ – Fashion Designer Portfolio & CMS Platform
 
-A modern tourism website designed to showcase travel experiences, destinations, and booking services with a premium user experience.
+A premium fashion portfolio platform built for a designer brand, featuring visual look showcases, garment details, admin-managed CMS workflows, inquiry management, and responsive frontend experiences.
 
 ### Key Highlights
-- Developed a responsive and modern tourism platform using Next.js and Tailwind CSS
-- Built reusable frontend components with a strong focus on UI/UX design
-- Implemented SEO-friendly architecture and optimized page performance
-- Designed dynamic travel sections, booking workflows, and destination showcases
-- Focused on clean layouts, modern animations, and mobile responsiveness
+- Built a fashion portfolio website with premium UI sections, look showcases, garment pages, and responsive visual layouts
+- Developed protected admin CMS endpoints and screens for managing looks, garments, pricing details, and inquiries
+- Implemented safer backend workflows including validation, protected routes, CRUD services, and relationship-aware delete handling
+- Created admin pages for listing, creating, editing, and managing portfolio content with reusable UI components
+- Focused on brand presentation, clean dashboard workflows, modern frontend structure, and maintainable backend services
 
 ### Tech Stack
-`Next.js` `React` `TypeScript` `Tailwind CSS`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js` `Express.js` `Prisma` `PostgreSQL` `Admin CMS`
 
-🔗 Repository: https://github.com/gihan-tharuka/Tourism-Website 
-🔗 Live Demo: https://tourism-website-pi-one.vercel.app/
+🔗 Repository: Available on request  
+🔗 Live Demo: Available on request
 
 ---
 
 ## 🏢 SYOS ERP – Enterprise Resource Planning System
 
-A CLI-based ERP system developed using Java and MySQL following clean coding principles and design patterns.
+A Java-based ERP system built to manage supermarket-style business operations, inventory workflows, product data, billing logic, and database-backed enterprise modules.
 
 ### Key Highlights
-- Built product and inventory management modules using Java and MySQL
-- Applied MVC architecture, DAO pattern, and SOLID principles
-- Implemented CRUD operations with optimized database interactions
-- Focused on maintainable code structure and clean software architecture
-- Designed reusable components for scalable enterprise system development
+- Developed ERP modules for product management, inventory tracking, stock operations, and business workflow handling
+- Applied Java OOP, MVC architecture, DAO pattern, SOLID principles, and clean separation of application layers
+- Implemented database-backed CRUD operations with MySQL and reusable data access components
+- Improved maintainability through structured service logic, validation flow, and modular code organization
+- Practiced enterprise application design using Java Servlets, Apache Tomcat, and relational database workflows
 
 ### Tech Stack
-`Java` `MySQL` `MVC` `DAO` `OOP`
+`Java` `Java Servlets` `Apache Tomcat` `MySQL` `MVC` `DAO` `OOP` `SOLID`
 
 🔗 Repository: https://github.com/gihan-tharuka/SYOS-ERP-V3
 
 ---
 
-## 🍽️ DineMate – AI Powered Food Recommendation System
+## 🍽️ DineMate – AI-Powered Food Recommendation System
 
-An intelligent food recommendation system that generates personalized meal suggestions based on user preferences, budget, ratings, weather, and contextual factors.
+An intelligent food recommendation system that suggests personalized meals using user preferences, budget, ratings, weather, and contextual decision factors.
 
 ### Key Highlights
-- Developed a recommendation engine using Python and machine learning concepts
-- Implemented multi-objective optimization for personalized food recommendations
-- Integrated budget, cuisine preferences, ratings, and weather-based recommendations
-- Processed and analyzed datasets using Pandas and Google Colab
-- Focused on intelligent recommendation logic and user-centric decision making
+- Built a recommendation engine using Python, machine learning concepts, dataset processing, and optimization logic
+- Implemented personalized food suggestions based on budget, cuisine preference, ratings, weather, and user context
+- Used Pandas and Google Colab for data processing, experimentation, analysis, and recommendation workflow development
+- Converted the academic recommendation logic into a Flask-based web application for practical user interaction
+- Focused on intelligent decision support, multi-factor recommendation logic, and user-centric food selection
 
 ### Tech Stack
-`Python` `Machine Learning` `Pandas` `Google Colab`
+`Python` `Flask` `Machine Learning` `Pandas` `Google Colab` `Recommendation Systems`
 
 🔗 Repository: https://github.com/gihan-tharuka/Food-Recommendation-System
 
@@ -218,11 +234,11 @@ An intelligent food recommendation system that generates personalized meal sugge
 
 # 🌱 Currently Learning
 
-- Cloud Architecture & AWS
-- AI & Machine Learning Applications
-- System Design & Scalability
-- SaaS Product Engineering
-- DevOps & Deployment Pipelines
+- CI/CD pipelines, testing workflows, and deployment best practices
+- Java, Spring Boot, and enterprise backend development
+- Next.js, NestJS, TypeScript, and scalable full-stack product architecture
+- Cloud deployment with Vercel, Render, Neon, Laravel Cloud, and containerized workflows
+- SEO, performance optimization, API documentation, and production-ready project structure
 
 ---
 
